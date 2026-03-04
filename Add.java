@@ -1,9 +1,8 @@
-public class Add{
-  public static void main(String[] args){
-    int A=12;
-    int c=23;
-    int sum=A+B;
-  System.ou.println(""+sum);
-
+public class Simple {
+  public static void main(String[] args) {
+    int a = 12;
+    int b = 34;
+    System.out.println("Value of a: " + a);
   }
 }
+
